@@ -58,4 +58,17 @@ public class GameSession : MonoBehaviour {
     {
         return isAutoPlayEnabled;
     }
+
+    public void EasyGameSpeed()
+    {
+        gameSpeed = 0.5f;
+    }
+    public void NormalGameSpeed()
+    {
+        gameSpeed = 1f;
+    }
+    public void HardGameSpeed()
+    {
+        gameSpeed = 2f;
+    }
 }

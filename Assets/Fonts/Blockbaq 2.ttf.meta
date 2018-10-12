@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e03ca36c87a4c0148b5308c48ebe0302
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blockbaq
+  fontNames:
+  - Blockbaq
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8df85f09c2305414abe117a623e8b2c7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
