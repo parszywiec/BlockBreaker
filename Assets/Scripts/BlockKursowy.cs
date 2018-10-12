@@ -24,7 +24,7 @@ public class BlockKursowy : MonoBehaviour {
 
     private void CountBreakableBlocks()
     {
-        if (tag == "Breakable")
+        if (tag == "Points")
         {
             level = FindObjectOfType<Level>();
             level.SumOfBreakableBlcks();
@@ -33,7 +33,7 @@ public class BlockKursowy : MonoBehaviour {
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (tag == "Breakable")
+        if (tag == "Breakable" || tag == "Points")
         {
             HandleHit();
         }
@@ -73,7 +73,8 @@ public class BlockKursowy : MonoBehaviour {
     private void DestoryBlock()
     {
         Destroy(gameObject);
-        level.BlockDestoyed();
+        if (tag == "Points")
+            level.BlockDestoyed();
         PlayBlockDestorySFK();
         TriggerSparklesVFX();
     }

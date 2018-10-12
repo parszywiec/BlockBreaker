@@ -6,8 +6,7 @@ TagManager:
   tags:
   - Breakable
   - Unbreakable
-  - Breakable2h
-  - Breakable3h
+  - Points
   layers:
   - Default
   - TransparentFX
