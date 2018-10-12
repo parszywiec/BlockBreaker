@@ -113,6 +113,410 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &14962401
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.2399993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.00241
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &14962402 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 14962401}
+--- !u!1001 &19958013
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.001801014
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9947004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &19958014 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 19958013}
+--- !u!1001 &30659401
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.9963913
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0294003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &30659402 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 30659401}
+--- !u!1001 &82693651
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.00241
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &82693652 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 82693651}
+--- !u!1001 &91662415
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.7897997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &91662416 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 91662415}
+--- !u!1001 &124116240
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 57
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &124116241 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 124116240}
+--- !u!1001 &187995706
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.7600001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.0011997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.7897997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &187995707 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 187995706}
+--- !u!1001 &194643728
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.2399993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.99759007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &194643729 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 194643728}
 --- !u!1001 &197998258
 Prefab:
   m_ObjectHideFlags: 0
@@ -156,16 +560,16 @@ Prefab:
         type: 2}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: a14611a89e23f6343b1b7ab471345556,
+      objectReference: {fileID: 21300000, guid: 9d453073d4909884284c1ee6f949785e,
         type: 3}
     - target: {fileID: 212479191654592112, guid: 733668a42b143b140bcf9d8af0bdd929,
         type: 2}
       propertyPath: m_DrawMode
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4505824961023274, guid: 733668a42b143b140bcf9d8af0bdd929, type: 2}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 1.1146468
       objectReference: {fileID: 0}
     - target: {fileID: 4505824961023274, guid: 733668a42b143b140bcf9d8af0bdd929, type: 2}
       propertyPath: m_LocalPosition.y
@@ -187,11 +591,219 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1067698698094016, guid: 733668a42b143b140bcf9d8af0bdd929, type: 2}
       propertyPath: m_Name
-      value: BackgroundZimaSnieg
+      value: BackgroundZimowy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505824961023274, guid: 733668a42b143b140bcf9d8af0bdd929, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.1138197
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 733668a42b143b140bcf9d8af0bdd929, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &210349726
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.003018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9945
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &210349727 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 210349726}
+--- !u!1001 &255108875
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.769999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8247
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_RootOrder
+      value: 66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_2hp (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &255108876 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482,
+    type: 2}
+  m_PrefabInternal: {fileID: 255108875}
+--- !u!1001 &283287010
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.2400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &283287011 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 283287010}
+--- !u!1001 &319499931
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.99759007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &319499932 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 319499931}
 --- !u!1001 &334678277
 Prefab:
   m_ObjectHideFlags: 0
@@ -234,6 +846,104 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3dc5bd52d85772146b2fa69d159326f7, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &369180041
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.0030178279
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9945
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &369180042 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 369180041}
+--- !u!1001 &374981580
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.2399998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (22)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &374981581 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 374981580}
 --- !u!1001 &379512309
 Prefab:
   m_ObjectHideFlags: 0
@@ -276,12 +986,624 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 653c30c5f2537b4499c7fd2cb7b7c8ed, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &396854506
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 4.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &396854507 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 396854506}
+--- !u!1001 &459742874
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 6.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.001801
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9647007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &459742875 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 459742874}
 --- !u!114 &475151388 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 114253252078696544, guid: 3dc5bd52d85772146b2fa69d159326f7,
     type: 2}
   m_PrefabInternal: {fileID: 334678277}
   m_Script: {fileID: 11500000, guid: b10e07fb5eb32f042a2da21c85afed80, type: 3}
+--- !u!1001 &510401346
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.001801014
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9947004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &510401347 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 510401346}
+--- !u!1001 &510617640
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.002409
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &510617641 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 510617640}
+--- !u!1001 &531418899
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 54
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &531418900 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 531418899}
+--- !u!1001 &542808037
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8247
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_2hp (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &542808038 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482,
+    type: 2}
+  m_PrefabInternal: {fileID: 542808037}
+--- !u!1001 &568441683
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 69
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &568441684 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 568441683}
+--- !u!1001 &585281532
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.7897997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &585281533 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 585281532}
+--- !u!1001 &595392134
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.0030179
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9645004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &595392135 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 595392134}
+--- !u!1001 &597929629
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 10.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.7897997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &597929630 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 597929629}
+--- !u!1001 &629614346
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 6.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.99759
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &629614347 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 629614346}
+--- !u!1001 &669173888
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.001801
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9647007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &669173889 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 669173888}
 --- !u!1 &669354017
 GameObject:
   m_ObjectHideFlags: 0
@@ -306,10 +1628,592 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.803887, y: 5.5124555, z: 5.174242}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 369180042}
+  - {fileID: 1206513540}
+  - {fileID: 1891836713}
+  - {fileID: 187995707}
+  - {fileID: 2141569941}
+  - {fileID: 585281533}
+  - {fileID: 768268493}
+  - {fileID: 542808038}
+  - {fileID: 1057772247}
+  - {fileID: 1175004621}
+  - {fileID: 1521149669}
+  - {fileID: 30659402}
+  - {fileID: 1273381721}
+  - {fileID: 629614347}
+  - {fileID: 194643729}
+  - {fileID: 319499932}
+  - {fileID: 1387759374}
+  - {fileID: 677431932}
+  - {fileID: 1201398345}
+  - {fileID: 210349727}
+  - {fileID: 1916870048}
+  - {fileID: 1999832293}
+  - {fileID: 868158676}
+  - {fileID: 510401347}
+  - {fileID: 19958014}
+  - {fileID: 595392135}
+  - {fileID: 1999329975}
+  - {fileID: 864389338}
+  - {fileID: 1447986193}
+  - {fileID: 814514677}
+  - {fileID: 1029646002}
+  - {fileID: 510617641}
+  - {fileID: 924460995}
+  - {fileID: 2125364753}
+  - {fileID: 459742875}
+  - {fileID: 712013213}
+  - {fileID: 1873075005}
+  - {fileID: 1293227834}
+  - {fileID: 669173889}
+  - {fileID: 1971720951}
+  - {fileID: 14962402}
+  - {fileID: 82693652}
+  - {fileID: 1755796021}
+  - {fileID: 1003080641}
+  - {fileID: 283287011}
+  - {fileID: 949655429}
+  - {fileID: 1436599231}
+  - {fileID: 396854507}
+  - {fileID: 1086131641}
+  - {fileID: 811311512}
+  - {fileID: 1187025073}
+  - {fileID: 1072497674}
+  - {fileID: 1735584905}
+  - {fileID: 906497196}
+  - {fileID: 531418900}
+  - {fileID: 374981581}
+  - {fileID: 1686545856}
+  - {fileID: 124116241}
+  - {fileID: 1936671335}
+  - {fileID: 1972434869}
+  - {fileID: 1845600316}
+  - {fileID: 1577410405}
+  - {fileID: 1626133155}
+  - {fileID: 1254766608}
+  - {fileID: 91662416}
+  - {fileID: 597929630}
+  - {fileID: 255108876}
+  - {fileID: 858758046}
+  - {fileID: 1212008920}
+  - {fileID: 568441684}
+  - {fileID: 1540156783}
+  - {fileID: 758827648}
+  - {fileID: 963251180}
+  - {fileID: 1426451039}
+  - {fileID: 1913688581}
+  - {fileID: 974506540}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &677431931
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 10.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.99759007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &677431932 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 677431931}
+--- !u!1001 &712013212
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 2.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.0024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &712013213 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3,
+    type: 2}
+  m_PrefabInternal: {fileID: 712013212}
+--- !u!1001 &758827647
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 10.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 71
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &758827648 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 758827647}
+--- !u!1001 &768268492
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.76000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.7897997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &768268493 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 768268492}
+--- !u!1001 &811311511
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 4.2399993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 49
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &811311512 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 811311511}
+--- !u!1001 &814514676
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.002409
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &814514677 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 814514676}
+--- !u!1001 &858758045
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.769999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8247
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_RootOrder
+      value: 67
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_2hp (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &858758046 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482,
+    type: 2}
+  m_PrefabInternal: {fileID: 858758045}
+--- !u!1001 &864389337
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.3200002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.0030179
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9645004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &864389338 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 864389337}
+--- !u!1001 &868158675
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.7199993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.0018009152
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9947004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &868158676 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 868158675}
+--- !u!1001 &906497195
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 53
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &906497196 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 906497195}
 --- !u!1001 &922094665
 Prefab:
   m_ObjectHideFlags: 0
@@ -357,6 +2261,261 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7f0487212bcc62d459e90ac6c715c893, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &924460994
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.002409
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &924460995 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 924460994}
+--- !u!1001 &949655428
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 2.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &949655429 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 949655428}
+--- !u!1001 &963251179
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 3.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.0024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_RootOrder
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_1 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &963251180 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3,
+    type: 2}
+  m_PrefabInternal: {fileID: 963251179}
+--- !u!1001 &974506539
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 3.2400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_RootOrder
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_1 (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &974506540 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3,
+    type: 2}
+  m_PrefabInternal: {fileID: 974506539}
+--- !u!1001 &1003080640
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 10.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.00241
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1003080641 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1003080640}
 --- !u!1001 &1007257765
 Prefab:
   m_ObjectHideFlags: 0
@@ -414,6 +2573,261 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17e2eba2c9664e54487b4dbb3143ebc9, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &1029646001
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.002409
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1029646002 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1029646001}
+--- !u!1001 &1057772246
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8247
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_2hp (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1057772247 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482,
+    type: 2}
+  m_PrefabInternal: {fileID: 1057772246}
+--- !u!1001 &1072497673
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 6.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 51
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1072497674 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1072497673}
+--- !u!1001 &1086131640
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 5.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1086131641 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1086131640}
+--- !u!1001 &1175004620
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.9963913
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0294003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1175004621 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1175004620}
 --- !u!1001 &1177674768
 Prefab:
   m_ObjectHideFlags: 0
@@ -456,6 +2870,716 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9dfdff59817fc534f9a1fc668651b4fd, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &1187025072
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 5.2399993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1187025073 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1187025072}
+--- !u!1001 &1201398344
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.0030179024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9945
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1201398345 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1201398344}
+--- !u!1001 &1206513539
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.9963913
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0294003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1206513540 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1206513539}
+--- !u!1001 &1212008919
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1212008920 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 1212008919}
+--- !u!1001 &1254766607
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.7897997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 63
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1254766608 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 1254766607}
+--- !u!1001 &1273381720
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.23999977
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.99639106
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0294003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1273381721 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1273381720}
+--- !u!1001 &1293227833
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.001801
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9647007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1293227834 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1293227833}
+--- !u!1001 &1387759373
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.99759007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1387759374 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1387759373}
+--- !u!1001 &1426451038
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 4.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.0024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_RootOrder
+      value: 73
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_1 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1426451039 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3,
+    type: 2}
+  m_PrefabInternal: {fileID: 1426451038}
+--- !u!1001 &1436599230
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 3.2400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (22)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1436599231 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1436599230}
+--- !u!1001 &1447986192
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.32000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.0030179
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9645004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1447986193 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1447986192}
+--- !u!1001 &1521149668
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.9963913
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.0294003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1521149669 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1521149668}
+--- !u!1001 &1540156782
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1540156783 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 1540156782}
+--- !u!1001 &1577410404
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.769999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8247
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_RootOrder
+      value: 61
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_2hp (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1577410405 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482,
+    type: 2}
+  m_PrefabInternal: {fileID: 1577410404}
 --- !u!1001 &1614547760
 Prefab:
   m_ObjectHideFlags: 0
@@ -498,6 +3622,716 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 441a3e75097a2a1458e588c71f4ed0e0, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &1626133154
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.7897997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 62
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1626133155 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 1626133154}
+--- !u!1001 &1686545855
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 2.2399998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 56
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1686545856 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1686545855}
+--- !u!1001 &1735584904
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 52
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1735584905 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1735584904}
+--- !u!1001 &1755796020
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.239999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.00241
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1755796021 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1755796020}
+--- !u!1001 &1845600315
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.7600002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0011997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1845600316 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 1845600315}
+--- !u!1001 &1873075004
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.001801
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9647007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1873075005 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1873075004}
+--- !u!1001 &1891836712
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.0018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8247
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62ecffa00d4183044b76379938fd8482, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1891836713 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 62ecffa00d4183044b76379938fd8482,
+    type: 2}
+  m_PrefabInternal: {fileID: 1891836712}
+--- !u!1001 &1913688580
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 3.2400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_RootOrder
+      value: 74
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_1 (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5b88fd1fed477a4484cf8377542ccd3, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1913688581 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: e5b88fd1fed477a4484cf8377542ccd3,
+    type: 2}
+  m_PrefabInternal: {fileID: 1913688580}
+--- !u!1001 &1916870047
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.31999993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.0030179024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9945
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1916870048 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1916870047}
+--- !u!1001 &1936671334
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 58
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1936671335 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 1936671334}
+--- !u!1001 &1971720950
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 6.2399993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.00241
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1971720951 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 1971720950}
+--- !u!1001 &1972434868
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.8598
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 59
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1972434869 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 1972434868}
+--- !u!1001 &1999329974
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.0030179
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9645004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1999329975 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1999329974}
+--- !u!1001 &1999832292
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 6.7200003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.001801014
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9947004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+      propertyPath: m_Name
+      value: Klocek_punktowy_do_kursu (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf3e286f7985c1c4396dc7615b578e24, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &1999832293 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: bf3e286f7985c1c4396dc7615b578e24,
+    type: 2}
+  m_PrefabInternal: {fileID: 1999832292}
 --- !u!1001 &2000248171
 Prefab:
   m_ObjectHideFlags: 0
@@ -545,3 +4379,105 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4df8e3525ac661e4980d9898f776756b, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &2125364752
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.23999977
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.002409
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.9296002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+      propertyPath: m_Name
+      value: Klocek_unbreakable_do_kursu (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6a952a5362043de4194670898159bf8d, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &2125364753 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: 6a952a5362043de4194670898159bf8d,
+    type: 2}
+  m_PrefabInternal: {fileID: 2125364752}
+--- !u!1001 &2141569940
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 669354018}
+    m_Modifications:
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.0011992
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.7897997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.017454883
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.99984765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590054736012672, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+      propertyPath: m_Name
+      value: Klocek_breakable_do_kursu_3hp (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abd7dfd816ea35b45a93771ba9bbae32, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!4 &2141569941 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4718816297618704, guid: abd7dfd816ea35b45a93771ba9bbae32,
+    type: 2}
+  m_PrefabInternal: {fileID: 2141569940}

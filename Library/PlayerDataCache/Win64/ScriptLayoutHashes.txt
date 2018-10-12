@@ -1,10 +1,13 @@
 WindowsStandalone
 PlayerPath?
-C:/bogb/buildy/Block_Breaker.exe
+C:/bogb/buildy/BlockBreaker/Block_Breaker.exe
 SceneListBegin?
 Assets/Scenes/Start Menu.unity
 Assets/Scenes/Level 1.unity
 Assets/Scenes/Level 2.unity
+Assets/Scenes/Level 3.unity
+Assets/Scenes/Level 4.unity
+Assets/Scenes/Level 5.unity
 Assets/Scenes/Game Over.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
